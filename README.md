@@ -1,0 +1,1 @@
+# yamaneaugust.github.io
