@@ -178,6 +178,15 @@ Sending you an email notification for significant changes
 We encourage you to review this Privacy Policy periodically. Changes are effective immediately upon posting.
 
 
+PHOTOS AND FACE DATA
+
+Photos and Face Data We may collect photos or images that you voluntarily upload or capture within the app, which may include visible facial features. We use this information solely to provide personalized analysis, recommendations, and results requested by you, such as fitness, style, or grooming guidance.
+We do not use facial data for identity verification, facial recognition, advertising, or tracking across apps or services. Facial images are processed securely and are not sold or shared with third parties for marketing purposes.
+We may use trusted service providers to process photos on our behalf strictly to deliver app functionality. These providers are contractually prohibited from using the data for any other purpose.
+Facial images and related data are retained only as long as necessary to provide the requested services or until you delete them. You may delete your photos or associated results at any time, after which the data will be permanently removed from our systems within a reasonable timeframe.”
+
+
+
 CONTACT US
 
 If you have any questions about this Privacy Policy or our data practices, please contact us:
