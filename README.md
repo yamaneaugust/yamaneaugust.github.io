@@ -185,6 +185,32 @@ We do not use facial data for identity verification, facial recognition, adverti
 We may use trusted service providers to process photos on our behalf strictly to deliver app functionality. These providers are contractually prohibited from using the data for any other purpose.
 Facial images and related data are retained only as long as necessary to provide the requested services or until you delete them. You may delete your photos or associated results at any time, after which the data will be permanently removed from our systems within a reasonable timeframe.”
 
+Face data (photos uploaded or captured by the user) is stored only as long as necessary to provide the requested analysis and related features.
+
+Primary processing: Facial images are processed immediately to generate personalized fitness, style, and grooming recommendations.
+
+Short-term retention: After analysis, face data is retained for up to 30 days to allow users to view results again, revisit recommendations, or troubleshoot analysis issues without requiring re-upload.
+
+User control: Users may delete their photos and associated results at any time. When deletion is requested, the face data is permanently removed from active systems within a reasonable technical timeframe.
+
+No indefinite storage: Face data is not stored indefinitely and is not retained beyond the stated period unless the user explicitly keeps the analysis active.
+
+This retention period is intentionally limited to balance user convenience (access to recent results) with privacy protection and data minimization.
+
+Face data is not sold or shared with third parties for advertising, marketing, profiling, or tracking.
+
+Face data may be processed by trusted service providers acting solely on the app’s behalf (such as cloud infrastructure or AI processing services) for the purpose of generating the requested analysis.
+
+Storage by third parties: These service providers may temporarily store face data only for the duration required to process the analysis.
+
+Purpose limitation: Face data is used exclusively to perform the requested AI analysis and return results to the app.
+
+Retention limits: Third-party service providers do not retain face data beyond the short processing window and are contractually prohibited from storing or reusing it for any other purpose.
+
+Privacy safeguards: These providers operate under data processing agreements that require confidentiality, security safeguards, and deletion of face data after processing is complete.
+
+These practices are designed to ensure that face data is handled only as necessary to deliver app functionality and is not retained longer than required by either the app or its service providers.
+
 
 
 CONTACT US
